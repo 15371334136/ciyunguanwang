@@ -3260,35 +3260,3 @@
   width:688px;
   word-wrap:break-word;
 }
-#u761_div {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:110px;
-  height:46px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 0);
-  box-sizing:border-box;
-  border-width:1px;
-  border-style:solid;
-  border-color:rgba(255, 0, 0, 1);
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-}
-#u761 {
-  position:absolute;
-  left:292px;
-  top:369px;
-  width:110px;
-  height:46px;
-}
-#u762 {
-  position:absolute;
-  left:2px;
-  top:15px;
-  width:106px;
-  visibility:hidden;
-  word-wrap:break-word;
-}
